@@ -3,6 +3,6 @@ Testowe repozytorium dla  grupy 1
 ## Naglółek
 
 
-### Trzeczi naglółek
+### Trzeci naglówek
 rak
 rory
