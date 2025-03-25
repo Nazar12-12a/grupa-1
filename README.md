@@ -8,3 +8,5 @@ rak
 rory
 ## instru 
 ## zmiany w readme
+
+## trr
