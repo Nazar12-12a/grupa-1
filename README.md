@@ -7,4 +7,6 @@ Testowe repozytorium dla  grupy 1
 rak
 rory
 ## instru 
+## zmiany w readme
+
 ## trr
